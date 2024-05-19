@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "cookingtime": 300,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "zompocalypse:zombie_flesh"
+  },
+  "result": "zompocalypse:cooked_zombie_meat"
+}

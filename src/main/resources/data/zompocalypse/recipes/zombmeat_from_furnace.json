@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 150,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "zompocalypse:zombie_flesh"
+  },
+  "result": "zompocalypse:cooked_zombie_meat"
+}
